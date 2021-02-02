@@ -1,0 +1,7 @@
+Model;                   Parameter;Complexity
+Linear Regression ;Number of variables;Increases with number of variables
+Polynomial Regression;Order;Increases with order
+Ridge;Regularization parameter;Decreases when regularization increases
+Lasso;Regularization parameter;Decreases when regularization increases
+Elastic Net;Regularization + Mixing parameters;Decreases when regularization increases
+Nearest-neighbors ;Number of neighbors;Decreases when number of neighbors increases
